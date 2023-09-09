@@ -1,5 +1,0 @@
-{{#user}}
-Name: Abhishek Agarwal
-Skills: HTML, CSS, JS, ReactJs
-Email: abhishekagarwal1256@gmail.com
-{{/user}}
